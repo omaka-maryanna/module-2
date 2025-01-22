@@ -1,6 +1,1 @@
-copy of data_analysis_project.ipynb
-copy of pthon_refresher_exercise.ipynb
-LLM assignment.doc
-neural network assignment.doc
-streamlit csv.csv
-streamlit.py
+this repo contain module 2 project and assignment, one csv file i generated from the streamlit app i built.
